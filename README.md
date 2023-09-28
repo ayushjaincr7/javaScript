@@ -1,8 +1,8 @@
 # JavaScript
 
-@ with using nodejs environment 
-@ null is object
-@ undefined is undefined
+@ with using nodejs environment <br>
+@ null is object <br>
+@ undefined is undefined <br>
 
 
 ## datatype summary
@@ -36,3 +36,6 @@
     </ul>
 <li> typeof </li>
 </ol>
+
+## Stack(Primitive), Heap(Non-Primitive)
+![Alt Text](img/stack_heap.png)
