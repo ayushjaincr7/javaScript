@@ -37,4 +37,4 @@
 <li> typeof </li>
 </ol>
 ## Stack(Primitive), Heap(Non-Primitive)
-![Alt Text]("img/stack_heap.png")
+<img src="img/stack_heap.png">
