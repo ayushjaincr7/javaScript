@@ -1,11 +1,11 @@
-# <span style="color:Yellow;">JavaScript</span>
+#JavaScript
 
 @ with using nodejs environment <br>
 @ null is object <br>
 @ undefined is undefined <br>
 
 
-## <span style="color:red;">datatype summary</span>
+## datatype summary
 <ol>
 <li>Primitive</li>
 7 Types:
