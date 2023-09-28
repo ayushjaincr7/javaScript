@@ -36,5 +36,5 @@
     </ul>
 <li> typeof </li>
 </ol>
-## <span style="color:red;">Stack(Primitive), Heap(Non-Primitive)</span>
+## Stack(Primitive), Heap(Non-Primitive)
 ![Alt Text](img/stack_heap.png)
