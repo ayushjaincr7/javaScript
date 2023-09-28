@@ -1,11 +1,11 @@
-# JavaScript
+# <span style="color:Yellow;">JavaScript</span>
 
 @ with using nodejs environment <br>
 @ null is object <br>
 @ undefined is undefined <br>
 
 
-## datatype summary
+## <span style="color:red;">datatype summary</span>
 <ol>
 <li>Primitive</li>
 7 Types:
@@ -36,6 +36,6 @@
     </ul>
 <li> typeof </li>
 </ol>
-
-## Stack(Primitive), Heap(Non-Primitive)
+## <span style="color:red;">Stack(Primitive), Heap(Non-Primitive)
+</span>
 ![Alt Text](img/stack_heap.png)
