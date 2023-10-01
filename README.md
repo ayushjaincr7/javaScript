@@ -38,3 +38,8 @@
 </ol>
 ## Stack(Primitive), Heap(Non-Primitive)
 <img src="img/stack_heap.png">
+<br>
+## How to js work behing
+<img src="img/working_js.png">
+## Call Stack
+<img src="img/stack_call.png">
