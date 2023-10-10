@@ -55,3 +55,10 @@ selected methods
 <li>documents.getElementById('id').innerHTML = "Text"</li>
 node list vs htmlCollections 
 
+
+# Js async
+
+<img src="img/javaScript.png"></img>
+<img src="img/javaScript2.png"></img>
+<img src="img/javaScript3.png"></img>
+
