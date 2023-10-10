@@ -43,3 +43,15 @@
 <img src="img/working_js.png">
 ## Call Stack
 <img src="img/stack_call.png">
+
+
+# DOM
+
+<li>by default htmlcollection we get using doucment.(attribute)</li>
+
+selected methods
+
+<li>documents.getElementById('id')</li>
+<li>documents.getElementById('id').innerHTML = "Text"</li>
+node list vs htmlCollections 
+
