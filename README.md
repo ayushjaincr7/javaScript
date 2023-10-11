@@ -62,3 +62,8 @@ node list vs htmlCollections
 <img src="img/javaScript2.png"></img>
 <img src="img/javaScript3.png"></img>
 
+# Fetch
+
+<img src="img/fetch.png"></img>
+
+
