@@ -67,3 +67,9 @@ node list vs htmlCollections
 <img src="img/fetch.png"></img>
 
 
+# inheritance
+<img src="img/oops.png"></img>
+
+
+# call and This
+<img src="img/callandthis.png"></img>
