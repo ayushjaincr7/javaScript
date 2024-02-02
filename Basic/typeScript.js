@@ -1,0 +1,1 @@
+// typeScript we can't change type of variable  -> static typed

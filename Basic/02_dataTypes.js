@@ -18,8 +18,8 @@ let state = null
 // bigint 
 // String => ""
 // boolean => true/ false
-// null => standalone value
-// undefined => 
+// null => standalone value (intention to not give value)
+// undefined => not give any assigned valued.
 // symbol => unique
 
 
