@@ -8,6 +8,11 @@ console.log(valueInNumber)
 // true => 1; false => 0
 // null => 0
 
+// Not a Number:
+// 0/0
+// NaN - 1
+// NaN*1
+// NaN * NaN
 
 
 let isLoggedIn = 1

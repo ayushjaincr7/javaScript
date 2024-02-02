@@ -3,6 +3,9 @@ const accountId = 144523
 // const never change 
 
 
+// windows Console:
+// uses REPL == Read evaluate print loop
+
 let accountEmail =  "ayush@gmail.com"
 
 var accountPassword = "122344"
